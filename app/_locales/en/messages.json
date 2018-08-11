@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Github Issue Translator",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "gitranslator",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Chrome extension to translate github issues.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Github Issue Translator",
+    "description": "The title of the browser action button"
+  }
+}
